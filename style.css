@@ -1,0 +1,57 @@
+ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fe68b4;
+    } 
+
+
+
+    .nav-link {color: #77a08f;
+    font-family:'Noto Serif', serif;
+font-weight: bold;
+font-size: 1.5em} 
+
+    .nav-link:hover {
+    color: whitesmoke;} 
+
+
+      h1 {font-family:'Acme', sans-serif;
+        color: #33160C;
+        } 
+
+        h3 {font-family:'Noto Serif', serif;
+        color: #33160C;
+        font-size: 100%;
+    margin-top:60px;}
+
+    img {
+  padding: 25px;
+  box-sizing: border-box;
+} 
+
+h2{text-align: center;
+    font-family:'Acme', sans-serif;
+        color: #33160C;
+}
+
+h4 {text-align: center;font-family:'Noto Serif', serif;
+        color: #33160C;
+        font-size: 100%;
+    margin-top:60px;
+}
+
+#portfolio {background-color: lightgray;} 
+
+#contact {
+background-color: gray;
+
+}
+
+   
+        
+h5{font-family:'Acme', sans-serif;
+        color: #33160C;
+        font-size: 150%;}
